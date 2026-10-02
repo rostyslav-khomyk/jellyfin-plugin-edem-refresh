@@ -1,0 +1,5 @@
+bin/
+obj/
+checks/bin/
+checks/obj/
+artifacts/
